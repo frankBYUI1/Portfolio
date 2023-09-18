@@ -6,7 +6,7 @@ I am currently working on a macbook pro and using visual studio code as my main 
 
 This is a Hello World Program using python: 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/g2ylNxS-SyQ)
 
 # Development Environment
 
